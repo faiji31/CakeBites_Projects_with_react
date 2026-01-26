@@ -10,23 +10,8 @@ const AvilableCake = ({ fetchcake }) => {
 
       
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {cakeData.map((cake) => (
-          
-          <div key={cake.id} className="card bg-base-100 w-96 shadow-sm">
-            <figure>
-              <img src={cake.image_url} alt={cake.name} />
-            </figure>
-            <div className="card-body">
-              <h2 className="card-title">Cake Name: {cake.name}</h2>
-              <p>Category: {cake.category}</p>
-              <p>Description: {cake.description}</p>
-              <p>Price: ${cake.price}</p>
-
-              <div className="card-actions justify-end">
-                <button className="btn btn-primary">Buy Now</button>
-              </div>
-            </div>
-          </div>
+        {cakeData.map((cake) => ( 
+          <CakeCard cake={cake}></CakeCard>
         ))}
       </div>
     </div>
