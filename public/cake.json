@@ -1,102 +1,98 @@
-{
-  "status": "success",
-  "total_results": 12,
-  "data": [
-    {
-      "id": 1,
-      "name": "Classic Chocolate Truffle",
-      "category": "Chocolate",
-      "price": 35,
-      "image_url": "https://assets.winni.in/product/primary/2024/3/94564.jpeg?dpr=1&w=1000",
-      "description": "Rich Belgian chocolate ganache layered with moist cocoa sponge."
-    },
-    {
-      "id": 2,
-      "name": "Red Velvet Heritage",
-      "category": "Classic",
-      "price": 38,
-      "image_url": "https://assets.winni.in/product/primary/2022/6/62039.jpeg?dpr=1&w=1000",
-      "description": "Velvety crimson layers with a tangy cream cheese frosting."
-    },
-    {
-      "id": 3,
-      "name": "New York Cheesecake",
-      "category": "Cheese",
-      "price": 42,
-      "image_url": "https://assets.winni.in/product/primary/2022/12/80528.jpeg?dpr=1&w=1000",
-      "description": "Dense and creamy cheesecake with a buttery graham cracker crust."
-    },
-    {
-      "id": 4,
-      "name": "Strawberry Shortcake",
-      "category": "Fruit",
-      "price": 32,
-      "image_url": "https://assets.winni.in/product/primary/2024/3/94573.jpeg?dpr=1&w=1000",
-      "description": "Light sponge topped with fresh strawberries and whipped cream."
-    },
-    {
-      "id": 5,
-      "name": "Matcha Green Tea",
-      "category": "Gourmet",
-      "price": 45,
-      "image_url": "https://assets.winni.in/product/primary/2014/8/45941.jpeg?dpr=1&w=1000",
-      "description": "Premium Japanese matcha infused cake with honey buttercream."
-    },
-    {
-      "id": 6,
-      "name": "Black Forest Gâteau",
-      "category": "European",
-      "price": 36,
-      "image_url": "https://assets.winni.in/product/primary/2024/3/94571.jpeg?dpr=1&w=1000",
-      "description": "Layers of chocolate sponge, kirsch-soaked cherries, and cream."
-    },
-    {
-      "id": 7,
-      "name": "Salted Caramel Pecan",
-      "category": "Premium",
-      "price": 40,
-      "image_url": "https://assets.winni.in/product/primary/2014/6/33664.jpeg?dpr=1&w=1000",
-      "description": "Vanilla sponge drizzled with sea salt caramel and toasted pecans."
-    },
-    {
-      "id": 8,
-      "name": "Lemon Zest Sponge",
-      "category": "Citrus",
-      "price": 28,
-      "image_url": "https://assets.winni.in/product/primary/2023/3/83224.jpeg?dpr=1&w=1000",
-      "description": "Zesty and refreshing lemon cake with a light citrus glaze."
-    },
-    {
-      "id": 9,
-      "name": "Pistachio Rose",
-      "category": "Gourmet",
-      "price": 48,
-      "image_url": "https://assets.winni.in/product/primary/2021/8/53299.jpeg?dpr=1&w=1000",
-      "description": "Exotic blend of crushed pistachios and aromatic rose water."
-    },
-    {
-      "id": 10,
-      "name": "Carrot Walnut Cake",
-      "category": "Classic",
-      "price": 34,
-      "image_url": "https://assets.winni.in/product/primary/2024/12/100409.jpeg?dpr=1&w=1000",
-      "description": "Spiced carrot cake with crunchy walnuts and silk frosting."
-    },
-    {
-      "id": 11,
-      "name": "Tiramisu Espresso",
-      "category": "Coffee",
-      "price": 44,
-      "image_url": "https://assets.winni.in/product/primary/2014/8/35080.jpeg?dpr=1&w=1000",
-      "description": "Ladyfingers soaked in espresso, layered with mascarpone."
-    },
-    {
-      "id": 12,
-      "name": "Confetti Birthday",
-      "category": "Celebration",
-      "price": 30,
-      "image_url": "https://assets.winni.in/product/primary/2026/1/108383.jpeg?dpr=1&w=1000",
-      "description": "Fun vanilla sponge packed with colorful rainbow sprinkles."
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Classic Chocolate Truffle",
+    "category": "Chocolate",
+    "price": 35,
+    "image_url": "https://assets.winni.in/product/primary/2024/3/94564.jpeg?dpr=1&w=1000",
+    "description": "Rich Belgian chocolate ganache layered with moist cocoa sponge."
+  },
+  {
+    "id": 2,
+    "name": "Red Velvet Heritage",
+    "category": "Classic",
+    "price": 38,
+    "image_url": "https://assets.winni.in/product/primary/2022/6/62039.jpeg?dpr=1&w=1000",
+    "description": "Velvety crimson layers with a tangy cream cheese frosting."
+  },
+  {
+    "id": 3,
+    "name": "New York Cheesecake",
+    "category": "Cheese",
+    "price": 42,
+    "image_url": "https://assets.winni.in/product/primary/2022/12/80528.jpeg?dpr=1&w=1000",
+    "description": "Dense and creamy cheesecake with a buttery graham cracker crust."
+  },
+  {
+    "id": 4,
+    "name": "Strawberry Shortcake",
+    "category": "Fruit",
+    "price": 32,
+    "image_url": "https://assets.winni.in/product/primary/2024/3/94573.jpeg?dpr=1&w=1000",
+    "description": "Light sponge topped with fresh strawberries and whipped cream."
+  },
+  {
+    "id": 5,
+    "name": "Matcha Green Tea",
+    "category": "Gourmet",
+    "price": 45,
+    "image_url": "https://assets.winni.in/product/primary/2014/8/45941.jpeg?dpr=1&w=1000",
+    "description": "Premium Japanese matcha infused cake with honey buttercream."
+  },
+  {
+    "id": 6,
+    "name": "Black Forest Gâteau",
+    "category": "European",
+    "price": 36,
+    "image_url": "https://assets.winni.in/product/primary/2024/3/94571.jpeg?dpr=1&w=1000",
+    "description": "Layers of chocolate sponge, kirsch-soaked cherries, and cream."
+  },
+  {
+    "id": 7,
+    "name": "Salted Caramel Pecan",
+    "category": "Premium",
+    "price": 40,
+    "image_url": "https://assets.winni.in/product/primary/2014/6/33664.jpeg?dpr=1&w=1000",
+    "description": "Vanilla sponge drizzled with sea salt caramel and toasted pecans."
+  },
+  {
+    "id": 8,
+    "name": "Lemon Zest Sponge",
+    "category": "Citrus",
+    "price": 28,
+    "image_url": "https://assets.winni.in/product/primary/2023/3/83224.jpeg?dpr=1&w=1000",
+    "description": "Zesty and refreshing lemon cake with a light citrus glaze."
+  },
+  {
+    "id": 9,
+    "name": "Pistachio Rose",
+    "category": "Gourmet",
+    "price": 48,
+    "image_url": "https://assets.winni.in/product/primary/2021/8/53299.jpeg?dpr=1&w=1000",
+    "description": "Exotic blend of crushed pistachios and aromatic rose water."
+  },
+  {
+    "id": 10,
+    "name": "Carrot Walnut Cake",
+    "category": "Classic",
+    "price": 34,
+    "image_url": "https://assets.winni.in/product/primary/2024/12/100409.jpeg?dpr=1&w=1000",
+    "description": "Spiced carrot cake with crunchy walnuts and silk frosting."
+  },
+  {
+    "id": 11,
+    "name": "Tiramisu Espresso",
+    "category": "Coffee",
+    "price": 44,
+    "image_url": "https://assets.winni.in/product/primary/2014/8/35080.jpeg?dpr=1&w=1000",
+    "description": "Ladyfingers soaked in espresso, layered with mascarpone."
+  },
+  {
+    "id": 12,
+    "name": "Confetti Birthday",
+    "category": "Celebration",
+    "price": 30,
+    "image_url": "https://assets.winni.in/product/primary/2026/1/108383.jpeg?dpr=1&w=1000",
+    "description": "Fun vanilla sponge packed with colorful rainbow sprinkles."
+  }
+]
