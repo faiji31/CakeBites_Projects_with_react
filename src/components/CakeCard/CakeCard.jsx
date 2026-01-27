@@ -4,7 +4,7 @@ const CakeCard = ({ cake }) => {
   return (
     <div>
      <div key={cake.id} className="group card bg-base-100 w-96 shadow-xl hover:shadow-2xl transition-all duration-300 border border-base-200 overflow-hidden">
-  {/* Image Container with Zoom Effect */}
+  
   <figure className="relative overflow-hidden h-64">
     <img 
       src={cake.image_url} 
